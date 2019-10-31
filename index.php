@@ -22,11 +22,13 @@ else {
 
 ?>
 <br>
-<a href="jeu.php">Jeu</a>
+<a href="jeu.php">Inscription</a>
 <br>
-<a href="login.php">Login</a>
+<a href="login.php">Connexion</a>
 <br>
 <a href="calculatrice.php">Calculatrice</a>
+<br>
+<a href="rechercher.php">Rechercher</a>
 </h1>
 </body>
 </html>

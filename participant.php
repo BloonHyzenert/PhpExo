@@ -16,5 +16,5 @@ if ($dir=scandir(participants)) {
         }
     }
 }
-else echo "ok";
+else echo "Aucun participant";
 ?>

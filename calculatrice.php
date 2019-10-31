@@ -17,7 +17,12 @@
     <label for="var1">Valeur 1</label>
     <input type="text" name="var1">
     <label for="op">Opérateur</label>
-    <input type="text" name="op">
+    <select name="op" size="1">
+        <option>-
+        <option>+
+        <option>*
+        <option>/
+    </select>
     <label for="var2">Valeur 2</label>
     <input type="text" name="var2">
 
