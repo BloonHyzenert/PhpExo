@@ -7,6 +7,9 @@
 </head>
 <body>
 
+<br>
+<a href="index.php">Menu</a>
+<br>
 <fieldset>
 <legend>Calculatrice</legend>
 
